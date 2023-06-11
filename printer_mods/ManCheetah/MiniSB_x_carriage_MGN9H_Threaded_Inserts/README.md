@@ -1,0 +1,3 @@
+In the process of building my first Micron+ and the only thread insert version of the carriages I could find had the bottom tabs for the klicky mount and x limit switch removed from the models. So I modified the "stock" MGN9H carriage to to fill the gaps for inserting the M3 nuts (purposefully left a little indent to remind me they were once there) and added cut outs for inserting the threaded inserts. The "entrance" to the inserts is tappered (2.5 deg) with a top diameter of 9mm. I use a TS100 to insert my threaded inserts since its on the narrower end of soldering iron tips. I will eventually make a more "open" version for those with larger soldering irons.
+
+Requires (2) M3x40 SHCS to mount the toolhead (Dragonburner) to the carriage.
